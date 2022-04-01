@@ -25,12 +25,12 @@ body {
   position: absolute;
   top: 0;
   left: 0;
+  transition: transform 0.4s;
   margin: 10px;
 }
   
 #game-restart:hover {
   transform: scale(1.1) rotate(-270deg);
-  transition: transform 0.4s;
   cursor: pointer;
 }
 
