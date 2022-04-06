@@ -13,7 +13,7 @@
 ## About
 * This is a great project to get your feet wet with some harder JavaScript concepts.
 * If I were to remake this project, I would remake it with Sass.
-* This project was really that hard so I will end the summary here for you.
+* This project was not really that hard so I will end the summary here for you.
 
 ### Built With
 * HTML
