@@ -22,23 +22,9 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/ChristopherBenton145/snake-game
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the app
-   ```js
-   npm run start
-   ```
+
+2. Open the index.html file
